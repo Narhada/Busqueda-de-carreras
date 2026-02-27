@@ -9,6 +9,6 @@ de admisión, características de las licenciaturas de interés entre otras cosa
 
 Equipo 2, integrantes:  
   
-Kasandra Cortizo.  
-Carlos Montoya.  
-Tonatiuh L. Martinez.
+INGENIERO DE TECNOLOGIA: Kasandra Cortizo.  
+TESTING: Carlos Montoya.  
+LIDER DE PROYECTO: Tonatiuh L. Martinez.
