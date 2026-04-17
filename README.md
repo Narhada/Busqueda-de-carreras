@@ -11,4 +11,16 @@ Equipo 2, integrantes:
   
 INGENIERO DE TECNOLOGIA: Kasandra Cortizo.  
 TESTING: Carlos Montoya.  
-LIDER DE PROYECTO: Tonatiuh L. Martinez.
+LIDER DE PROYECTO: Tonatiuh L. Martinez.  
+  
+  
+-----------------------------------------------------------------------------------------------
+  
+Obtencion de filtros para la busqueda  
+  
+1.- Obtener ubicaccion como filtro de busqueda  
+Con la api geopy buscamos obtener la direccion de donde nos encontramos para conocer las carreras que se encuentran 
+mas cercanas como filtro de busqueda. Nosotros trabajamos con scv que nos da las carreras con su ubicacion 
+dada por cordenadas.  
+
+
